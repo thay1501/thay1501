@@ -9,3 +9,8 @@ Meu nome é Thayane Souza
 - ## Voce pode entrar em contato comigo📧
 
 - thayane.souza15@escola.pr.gov.br
+
+
+
+![](![image](https://github.com/user-attachments/assets/b998e727-4226-4593-83a9-623215540baa)
+
