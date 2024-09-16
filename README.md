@@ -2,7 +2,7 @@
 
 Meu nome é Thayane Souza
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
